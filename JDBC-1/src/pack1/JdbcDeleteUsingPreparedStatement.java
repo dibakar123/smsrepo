@@ -13,7 +13,7 @@ public class JdbcDeleteUsingPreparedStatement {
 		Connection con=null;
 		Scanner sc = new Scanner(System.in);
 		try {
-			System.out.println("Enter Employee Id for remove:");
+			System.out.println("Enter Employee Id for remove:::::::::");
 			int empId = Integer.parseInt(sc.nextLine());
 			
 			
